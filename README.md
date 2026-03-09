@@ -14,7 +14,7 @@ Timeline上で選択したクリップの開始・終了フレーム数をクリ
 2. 選択したクリップの上で 右クリック します。
 3. コンテキストメニューから 「Copy Clip Frames」 を選択します。
 4. クリップボードに以下の形式でフレーム情報がコピーされます。
-ClipName : StartFrame~EndFrame
+ClipName : StartFrame ~ EndFrame
 （例：Run : 10f~60f）
 ※複数選択時は改行区切りで出力されます。 ※Consoleウィンドウにもコピーされた内容がログ出力されます。
 
